@@ -27,21 +27,13 @@ This project started as a passion for storytelling and horror and has grown into
 3. **Beta Release**: Additional levels, refined AI, multiplayer support, and bug fixes.
 4. **Full Release**: Polished gameplay, final assets, and story mode.
 
-## How to Play
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/bunny-killer.git
-   ```
-2. Open the project in Unity (version 2021.3 or later).
-3. Build and run the game to immerse yourself in the horror.
-
 ## Contributing
 We welcome contributions to the project! Whether it's code, assets, or ideas, feel free to create a pull request or open an issue to discuss.
 
 ## Contact
 For inquiries, feedback, or collaboration opportunities, reach out to me:
 - **Email**: sundaymood.indie@gmail.com
-- **Social Media**: [Youtube](https://www.youtube.com/@SundayMoodStudios)) | [Facebook](https://www.facebook.com/sundaymoodindie)
+- **Social Media**: [Youtube](https://www.youtube.com/@SundayMoodStudios) | [Facebook](https://www.facebook.com/sundaymoodindie)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
