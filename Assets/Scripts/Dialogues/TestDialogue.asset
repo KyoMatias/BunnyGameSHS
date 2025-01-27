@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed053540716f61e48b7f82b47d0381ef, type: 3}
+  m_Name: TestDialogue
+  m_EditorClassIdentifier: 
+  CurrentCharacter: 1
+  dialogueLines:
+  - 
+  - Shit.....
+  - I'm coming home late, again...
+  - These workloads from class are too much.
+  - Too much.
+  - My mathemathics exam feels like a failure.
+  - And Professor Facundo failed me on Cookery.
+  - Now Principal Atanacio threathened to revoke my Honors!
+  - Not like this.
+  - Please, Not Like This
+  - Huh? Boe is calling?
+  - What for? she is usually asleep by this hour.
+  - Hello?
+  - Macy, you at home by any chance?
+  - Not yet, I'm still on the train.
+  - You're still not home?
+  - No Boe, Like what I said,
+  - 'If i want to keep my honors, '
+  - I need all the time i have. it's cruicial for me to save myself.
+  - Just don't overwork yourself with it.
+  - You'll figure it out.
+  - Easy for you to say, You are a medalist.
+  - It's not my fault my family is strict.
+  - Anyhow, I called because I came to check up on you.
+  - Why so?
+  - Tons of People, specifically students are mysteriosly vanishing these days
+  - Really?
+  - Yeah, and there are no clues nor evidences that leads to a concrete answer.
+  CurrentLine: Yeah, and there are no clues nor evidences that leads to a concrete
+    answer.
+  CharName: Mackenzie
+  Char2Name: Boe
+  currentSpeaking: Boe
+  CurrentLineIndex: 27
