@@ -42,6 +42,14 @@ MonoBehaviour:
   - Tons of People, specifically students are mysteriosly vanishing these days
   - Really?
   - Yeah, and there are no clues nor evidences that leads to a concrete answer.
+  dialogueContainer:
+  - DialogueCategory: 
+    DialogueNum: 0
+    DialogueID: 
+    CharacterName: 
+    CharacterLine: 
+    DialogueTime: 0
+    IsDone: 0
   CurrentLine: Yeah, and there are no clues nor evidences that leads to a concrete
     answer.
   CharName: Mackenzie
