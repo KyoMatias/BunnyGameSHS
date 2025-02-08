@@ -7,6 +7,13 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+    "com.jg.fullscreengameview": {
+      "version": "https://github.com/JorGra/JG-UnityEditor-GameViewFullscreen.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "a3f3598cb044fd1f2662ec92836a3704f0aeaba3"
+    },
     "com.unity.burst": {
       "version": "1.8.15",
       "depth": 1,
