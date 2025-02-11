@@ -73,14 +73,14 @@ public class PlayerManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
+        SelectPlayerPhase(Phase);
     }
 
     // Update is called once per frame
     void Update()
     {
         CameraSetup();
-        SelectPlayerPhase(Phase);
+
     }
 
     void SelectPlayerPhase(PlayerPhase phase)
