@@ -44,11 +44,11 @@ public class SceneDialogueChecker : MonoBehaviour
         if (currentDialogueIndex >= 0 && currentDialogueIndex < sceneDialogues.dialogueContents.Count)
         {
             SceneDialoguesSO.DialogueContents currentDialogue = sceneDialogues.dialogueContents[currentDialogueIndex];
-
+            
+             currentDialogue.ChangeSpeaker(sceneDialogues);
             CurrentSpeaker = currentDialogue.SpeakerName;
             CurrentDialogue = currentDialogue.Dialogue;
             _currentDialogueDuration = currentDialogue.LineDuration;
-
             Character.text = currentDialogue.SpeakerName;
             DialogueText.text = currentDialogue.Dialogue;
             Debug.Log($"Playing Dialogue: {CurrentDialogue} (Speaker: {CurrentSpeaker}) Duration: {_currentDialogueDuration}");

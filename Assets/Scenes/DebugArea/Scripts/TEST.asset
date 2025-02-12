@@ -12,28 +12,39 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3cd3ad505b58aed468d662d58ac0ea64, type: 3}
   m_Name: TEST
   m_EditorClassIdentifier: 
+  Character1: 
+  Character2: 
+  Character3: 
+  Character4: 
+  Character5: 
   dialogueContents:
-  - SpeakerName: Mackenzie
+  - CurrentSpeaker: 0
+    SpeakerName: Mackenzie
     Dialogue: Hello, I'm Macy
     LineDuration: 2
-    Done: 0
-  - SpeakerName: Boe
+    Done: 1
+  - CurrentSpeaker: 0
+    SpeakerName: Boe
     Dialogue: Hi, I'e Boey
     LineDuration: 2
-    Done: 0
-  - SpeakerName: Nick
+    Done: 1
+  - CurrentSpeaker: 0
+    SpeakerName: Nicky
     Dialogue: Sup, Nick Here
     LineDuration: 3
-    Done: 0
-  - SpeakerName: Zyra
+    Done: 1
+  - CurrentSpeaker: 0
+    SpeakerName: Zyra
     Dialogue: Greetings
     LineDuration: 2
-    Done: 0
-  - SpeakerName: Bree
+    Done: 1
+  - CurrentSpeaker: 0
+    SpeakerName: Bree
     Dialogue: Hey
     LineDuration: 3
-    Done: 0
-  - SpeakerName: Emily
+    Done: 1
+  - CurrentSpeaker: 0
+    SpeakerName: Emily
     Dialogue: Im Tired
     LineDuration: 2
-    Done: 0
+    Done: 1
