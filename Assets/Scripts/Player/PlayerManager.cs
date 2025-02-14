@@ -89,13 +89,14 @@ public class PlayerManager : MonoBehaviour
         {
             case PlayerPhase.Free:
             Debug.Log(phase);
-            camLook.SetCamera(true);
+            CamLock = true;
             break;
             case PlayerPhase.Standing:
             Debug.Log(phase);
+            CamLock = true;
             break;
             default:
-            camLook.SetCamera(true);
+            CamLock = true;
             break;
         }
     }

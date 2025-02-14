@@ -22,63 +22,63 @@ MonoBehaviour:
     SpeakerName: Mackenzie
     Dialogue: Shit..
     LineDuration: 2
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 1
     SpeakerName: Mackenzie
     Dialogue: "I\u2019m coming home late again..."
     LineDuration: 4
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 1
     SpeakerName: Mackenzie
     Dialogue: This workload is drowning me.
     LineDuration: 3
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 1
     SpeakerName: Mackenzie
     Dialogue: That math exam was a disaster. I know I bombed it.
     LineDuration: 3
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 1
     SpeakerName: Mackenzie
     Dialogue: ' I could feel it with every wrong answer I scribbled.'
     LineDuration: 3
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 1
     SpeakerName: Mackenzie
     Dialogue: And Professor Facundo?
     LineDuration: 3
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 1
     SpeakerName: Mackenzie
     Dialogue: He practically laughed when he failed me on my cookery test.
     LineDuration: 3
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 1
     SpeakerName: Mackenzie
     Dialogue: If Principal Torda pulls my honors over this...
     LineDuration: 3
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 1
     SpeakerName: Mackenzie
     Dialogue: No. No, not like this.
     LineDuration: 2
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 1
     SpeakerName: Mackenzie
     Dialogue: Please... not like this.
     LineDuration: 5
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 1
     SpeakerName: Mackenzie
     Dialogue: "Huh? Boe? What\u2019s she doing up this late? She\u2019s usually out
       like a light by now..."
     LineDuration: 6
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 1
     SpeakerName: Mackenzie
     Dialogue: Hello...?
     LineDuration: 2
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 2
     SpeakerName: Boe
     Dialogue: Macy, you at home?
