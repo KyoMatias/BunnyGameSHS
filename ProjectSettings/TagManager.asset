@@ -6,16 +6,18 @@ TagManager:
   tags:
   - Play
   - Quit
+  - RenderCameras
+  - Interactable
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
   - ShadeText
-  - 
-  - 
+  - Wall
+  - Interactable
   - 
   - 
   - 
