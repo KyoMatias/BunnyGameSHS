@@ -83,110 +83,110 @@ MonoBehaviour:
     SpeakerName: Boe
     Dialogue: Macy, you at home?
     LineDuration: 3
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 1
     SpeakerName: Mackenzie
     Dialogue: Not yet... still on the train.
     LineDuration: 3
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 2
     SpeakerName: Boe
     Dialogue: "You\u2019re still not home?"
     LineDuration: 3
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 1
     SpeakerName: Mackenzie
     Dialogue: No, Boe. Like I said...
     LineDuration: 2
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 1
     SpeakerName: Mackenzie
     Dialogue: "If I want to keep my honors, I have to put in the work. I don\u2019t
       have a choice."
     LineDuration: 2
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 2
     SpeakerName: Boe
     Dialogue: "Macy... don\u2019t kill yourself over this. You\u2019re pushing too
       hard."
     LineDuration: 4
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 2
     SpeakerName: Boe
     Dialogue: "You\u2019ll figure it out, okay?"
     LineDuration: 3
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 1
     SpeakerName: Mackenzie
     Dialogue: Easy for you to say, Miss Medalist.
     LineDuration: 2
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 2
     SpeakerName: Boe
     Dialogue: Not my fault my family practically breathes down my neck.
     LineDuration: 4
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 2
     SpeakerName: Boe
     Dialogue: Look, I actually called to check on you.
     LineDuration: 2
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 1
     SpeakerName: Mackenzie
     Dialogue: "Why? What\u2019s going on?"
     LineDuration: 2
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 2
     SpeakerName: Boe
     Dialogue: "You haven\u2019t heard?"
     LineDuration: 3.5
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 2
     SpeakerName: Boe
     Dialogue: Tons of students have been disappearing, Macy. Just... vanishing.
     LineDuration: 5
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 2
     SpeakerName: Boe
     Dialogue: No notes,
     LineDuration: 1.5
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 2
     SpeakerName: Boe
     Dialogue: no calls,
     LineDuration: 1.5
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 2
     SpeakerName: Boe
     Dialogue: ' no clues.'
     LineDuration: 2.4
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 2
     SpeakerName: Boe
     Dialogue: Nothing.
     LineDuration: 2.4
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 1
     SpeakerName: Mackenzie
     Dialogue: What... ? Are you serious?
     LineDuration: 3
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 2
     SpeakerName: Boe
     Dialogue: Dead serious
     LineDuration: 1.4
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 2
     SpeakerName: Boe
     Dialogue: 'And no one knows why. '
     LineDuration: 2
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 2
     SpeakerName: Boe
     Dialogue: "The police are scrambling, but it\u2019s like these people are just...
       erased. "
     LineDuration: 3
-    Done: 0
+    Done: 1
   - CurrentSpeaker: 2
     SpeakerName: Boe
     Dialogue: "No traces, no signs of struggle. It\u2019s all over the news"

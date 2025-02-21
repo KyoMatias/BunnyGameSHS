@@ -13,6 +13,9 @@ public class ITurnstile : MonoBehaviour
     public Interact openGate;
     [SerializeField] private InteractableObject IObject;
 
+    [Header("Interact Parameters")] 
+    [SerializeField] private float _interactionDuration;
+
     private void OnEnable()
     {
         if (openGate)
@@ -32,6 +35,11 @@ public class ITurnstile : MonoBehaviour
 
     void Start()
     {
+        PrintLayers();//DEBUG: Show gameobject layer on console.
+    }
+
+    void PrintLayers()
+    {
         Debug.Log("Layer Index: " + gameObject.layer);
         Debug.Log("Layer Name: " + LayerMask.LayerToName(gameObject.layer));
     }
@@ -39,7 +47,7 @@ public class ITurnstile : MonoBehaviour
     public void OpenTurnstile()
     {
         Debug.Log("Open Turnstile");
-        IObject.OnInteract.Invoke();
+        IObject.OnInteract.Invoke();//@NOTE: HARDCODED FEATURE: SUBJECTED TO REFACTORING AND OPTIMIZATION.
     }
 }
 
