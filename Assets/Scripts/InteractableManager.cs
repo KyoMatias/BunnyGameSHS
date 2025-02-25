@@ -32,10 +32,7 @@ public class InteractableManager : MonoBehaviour
         {
             StartCoroutine(StartTimer());
         }
-        else
-        {
-            timeChecker = 0;
-        }
+
     }
     IEnumerator StartTimer()
     {
