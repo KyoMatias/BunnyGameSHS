@@ -56,3 +56,5 @@ public class DialogueManager : MonoBehaviour
         dialogue_LinesSO.SwitchCharacter(Dialogue_LinesSO.Characters.Character2);
     }
 }
+
+//Look for ways to improve the Dialogue manager to be flexible with many characters and not  just 2.

@@ -34,6 +34,8 @@ public class InteractableManager : MonoBehaviour
         }
 
     }
+    
+    //Works as the main timer for the interact event.
     IEnumerator StartTimer()
     {
         yield return new WaitForSeconds(timeChecker);
