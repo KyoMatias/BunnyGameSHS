@@ -36,7 +36,7 @@ For inquiries, feedback, or collaboration opportunities, reach out to me:
 - **Social Media**: [Youtube](https://www.youtube.com/@SundayMoodStudios) | [Facebook](https://www.facebook.com/sundaymoodindie)
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
 
 ---
 Thank you for supporting **Bunny Killer** and **Sundaymood Studios**! Stay tuned for updates as we bring this chilling tale to life.
